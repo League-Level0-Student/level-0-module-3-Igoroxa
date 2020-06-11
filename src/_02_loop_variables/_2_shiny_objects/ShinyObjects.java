@@ -15,7 +15,9 @@ public class ShinyObjects {
 		// 2. Ask the user how many shiny objects they want
 		// 3. Play the sound that many times
 
-
+for (int i = 0; i < args.length; i++) {
+	
+}
 
 	}
 
